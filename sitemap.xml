@@ -8,12 +8,29 @@
   </url>
   
   <url>
+    <loc>https://shubham7saxena.github.io/posts/rails-migration-in-a-sane-way/</loc>
+    <lastmod>2019-01-26T15:18:34+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shubham7saxena.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://shubham7saxena.github.io/tags/database/</loc>
+    <lastmod>2019-01-26T15:18:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://shubham7saxena.github.io/posts/</loc>
+    <lastmod>2019-01-26T15:18:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shubham7saxena.github.io/tags/rails/</loc>
     <lastmod>2019-01-26T15:18:34+05:30</lastmod>
     <priority>0</priority>
   </url>

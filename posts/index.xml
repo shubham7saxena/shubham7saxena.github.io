@@ -20,5 +20,15 @@
       <description></description>
     </item>
     
+    <item>
+      <title>How to not break your rails migration</title>
+      <link>https://shubham7saxena.github.io/posts/rails-migration-in-a-sane-way/</link>
+      <pubDate>Sat, 26 Jan 2019 15:18:34 +0530</pubDate>
+      
+      <guid>https://shubham7saxena.github.io/posts/rails-migration-in-a-sane-way/</guid>
+      <description>When I first encountered migrations in rails I was amazed, to say the least. For the better part of last year, I&amp;rsquo;ve been writing Golang and Clojure both of which lack a powerful database client.
+The ability to use application code in migrations is a very powerful feature and can be used in a myriad of ways. This feature becomes available because both your models and migrations are managed by ActiveRecord and hence you can easily play around with your models which inherit from ActiveRecord.</description>
+    </item>
+    
   </channel>
 </rss>
