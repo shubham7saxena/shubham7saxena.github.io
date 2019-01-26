@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://shubham7saxena.github.io/posts/my-first-post/</loc>
+    <loc>https://shubham7saxena.github.io/posts/my-first-post/</loc>
     <lastmod>2019-01-26T15:18:34+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://shubham7saxena.github.io/categories/</loc>
+    <loc>https://shubham7saxena.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shubham7saxena.github.io/posts/</loc>
-    <lastmod>2019-01-26T15:18:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://shubham7saxena.github.io/tags/random/</loc>
+    <loc>https://shubham7saxena.github.io/posts/</loc>
     <lastmod>2019-01-26T15:18:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shubham7saxena.github.io/</loc>
+    <loc>https://shubham7saxena.github.io/tags/random/</loc>
     <lastmod>2019-01-26T15:18:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://shubham7saxena.github.io/tags/</loc>
+    <loc>https://shubham7saxena.github.io/</loc>
+    <lastmod>2019-01-26T15:18:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shubham7saxena.github.io/tags/</loc>
     <lastmod>2019-01-26T15:18:34+05:30</lastmod>
     <priority>0</priority>
   </url>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shubham Saxena</title>
-    <link>http://shubham7saxena.github.io/tags/</link>
+    <link>https://shubham7saxena.github.io/tags/</link>
     <description>Recent content in Tags on Shubham Saxena</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Jan 2019 15:18:34 +0530</lastBuildDate>
     
-	<atom:link href="http://shubham7saxena.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shubham7saxena.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Random</title>
-      <link>http://shubham7saxena.github.io/tags/random/</link>
+      <link>https://shubham7saxena.github.io/tags/random/</link>
       <pubDate>Sat, 26 Jan 2019 15:18:34 +0530</pubDate>
       
-      <guid>http://shubham7saxena.github.io/tags/random/</guid>
+      <guid>https://shubham7saxena.github.io/tags/random/</guid>
       <description></description>
     </item>
     
